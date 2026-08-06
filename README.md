@@ -555,8 +555,6 @@ Predictions should not be interpreted as evidence of agency or self-awareness.
 
 ---
 
-```
-
 ---
 
 # 👨‍💻 Author
